@@ -13,12 +13,12 @@ order: 4
 <!--Welcome! This is a personal blog site to share my CTF writeups, Security Engineering/Cyber Defense (Blue Team) Techniques, other side projects and research. You may find me on various CTF sites or social media platforms as **brootware** or **rootware**-->
 Greetings! I’m Yusuf, a passionate full-time learner and a vulnerability analyst. My mission? Strengthening attack surfaces that could potentially wreak havoc. I actively pursued the study of cyber security alongside my formal education. Furthermore, I was fortunate enough to become a part of Surabaya Hacker Link, an esteemed non-profit community that exposed me to invaluable insights and broadened my understanding of cutting-edge security practices.
 
-## Specialized in
+<!--## Specialized in
 
-- Penetration Testing
+- Penetration Testing-->
 <!--- Engineering productivity tools mainly focusing on Software Development and Security testing. [More details here](https://brootware.github.io/categories/security-toolkit/).-->
 
-## Some of my credentials
+## Another Activity
 
 <!--<a href="https://www.credly.com/users/oaker-min/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Oaker%20Min-brightgreen" /></a>   <a href="https://cyberdefenders.org/profile/brootware"><img src="https://img.shields.io/badge/cyberdefenders.org-brootware-blue" /></a>-->
 
@@ -28,7 +28,7 @@ Greetings! I’m Yusuf, a passionate full-time learner and a vulnerability analy
 <!--[![echoCTF badge](https://echoctf.red/profile/289749/badge)](https://echoctf.red/profile/289749)-->
 
 <!-- <a href="https://blueteamlabs.online/public/user/f7656a47c955978a69858f"><img src="https://img.shields.io/badge/blueteamlabs-Top%202%20percent-blue" /></a> -->
-## A disclaimer as usual
+## Disclaimer
 
 The views and opinions shown on this website are of my own and not necessarily the viewpoint of my employer.
 
