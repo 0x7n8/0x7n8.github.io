@@ -19,14 +19,14 @@ title: 0x7n8 # the main title
 tagline: Just Another Notes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+   Writeups, Techniques, and other side projects and research by 7n8
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://0x7n8.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: 0x7n8 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -35,11 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 7n8
-  email: example@domain.com # change to your email address
+  # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # https://twitter.com/username # change to your twitter homepage
+    - https://github.com/0x7n8 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,10 +73,10 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://raw.githubusercontent.com/0x7n8/0x7n8.github.io/main/uploads/poto.jpg
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/116242739?v=4
+avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
