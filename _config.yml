@@ -76,7 +76,8 @@ theme_mode: # [light | dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/7734956?v=4
+avatar: https://avatars.githubusercontent.com/u/116242739?v=4
+#avatar: https://avatars.githubusercontent.com/u/7734956?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -168,6 +169,10 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+  - scope:
       path: assets/js/dist
     values:
       swcache: true
@@ -187,11 +192,12 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
-  - docs
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
+  - node_modules
   - package*.json
 
 jekyll-archives:
